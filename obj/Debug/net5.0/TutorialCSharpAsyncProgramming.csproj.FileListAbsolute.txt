@@ -1,0 +1,15 @@
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/bin/Debug/net5.0/TutorialCSharpAsyncProgramming.deps.json
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/bin/Debug/net5.0/TutorialCSharpAsyncProgramming.runtimeconfig.json
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/bin/Debug/net5.0/TutorialCSharpAsyncProgramming.runtimeconfig.dev.json
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/bin/Debug/net5.0/TutorialCSharpAsyncProgramming.dll
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/bin/Debug/net5.0/ref/TutorialCSharpAsyncProgramming.dll
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/bin/Debug/net5.0/TutorialCSharpAsyncProgramming.pdb
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/obj/Debug/net5.0/TutorialCSharpAsyncProgramming.csprojAssemblyReference.cache
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/obj/Debug/net5.0/TutorialCSharpAsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/obj/Debug/net5.0/TutorialCSharpAsyncProgramming.AssemblyInfoInputs.cache
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/obj/Debug/net5.0/TutorialCSharpAsyncProgramming.AssemblyInfo.cs
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/obj/Debug/net5.0/TutorialCSharpAsyncProgramming.csproj.CoreCompileInputs.cache
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/obj/Debug/net5.0/TutorialCSharpAsyncProgramming.dll
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/obj/Debug/net5.0/ref/TutorialCSharpAsyncProgramming.dll
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/obj/Debug/net5.0/TutorialCSharpAsyncProgramming.pdb
+/Users/zea7ot/dev/tutorial/TutorialCSharpAsyncProgramming/obj/Debug/net5.0/TutorialCSharpAsyncProgramming.genruntimeconfig.cache
